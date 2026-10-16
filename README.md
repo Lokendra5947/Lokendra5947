@@ -2,7 +2,7 @@
 
 ### Backend Developer | Node.js | TypeScript
 
-I'm a Backend Developer with around 2 years of experience building scalable APIs, multi-tenant applications, and payment integrations.
+I'm a Backend Developer with around 2.5+ years of experience building scalable APIs, multi-tenant applications, and payment integrations.
 
 - 🔭 Working with Node.js, Express.js, TypeScript, and PostgreSQL
 - 💳 Experienced in payment gateway integrations
